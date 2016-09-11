@@ -1,0 +1,5 @@
+/home/caton/Pulpit/CSharp/nauka/nauka/nauka/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/caton/Pulpit/CSharp/nauka/nauka/nauka/bin/Debug/nauka.exe.mdb
+/home/caton/Pulpit/CSharp/nauka/nauka/nauka/bin/Debug/nauka.exe
+/home/caton/Pulpit/CSharp/nauka/nauka/nauka/obj/x86/Debug/nauka.exe
+/home/caton/Pulpit/CSharp/nauka/nauka/nauka/obj/x86/Debug/nauka.exe.mdb
